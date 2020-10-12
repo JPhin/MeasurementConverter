@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JP\'s Measurement Converter</string>
+    
+    <string-array name="conversionTypes">
+        <item>Miles to Kilometers</item>
+        <item>Kilometers to Miles</item>
+        <item>Inches to Centimeters</item>
+        <item>Centimeters to Inches</item>
+    </string-array>
+</resources>
